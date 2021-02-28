@@ -4,7 +4,9 @@ This project provides a Hibernate dialect for SQLite.
 
 Source: https://gist.github.com/virasak/54436
 
-Potential alternative: https://github.com/gwenn/sqlite-dialect
+Potential alternatives:
+* https://github.com/gwenn/sqlite-dialect
+* https://github.com/EnigmaBridge/hibernate4-sqlite-dialect
 
 # License
 
